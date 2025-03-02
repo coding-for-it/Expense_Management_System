@@ -1,0 +1,21 @@
+2025-03-02 16:15:29,277 - db_helper - INFO - fetch_expenses_for_date called with 2024-09-30
+2025-03-02 16:15:29,348 - db_helper - INFO - fetch_expense_summary called with start: 2024-08-01, end: 2024-08-05
+2025-03-02 16:29:14,333 - name - INFO - fetch_expenses_for_date called with 2024-08-01
+2025-03-02 18:14:28,192 - name - INFO - fetch_expenses_for_date called with 2024-08-01
+2025-03-02 18:14:39,068 - name - INFO - delete_expenses_for_date called with 2024-08-28
+2025-03-02 18:14:39,088 - name - INFO - insert_expense called with date: 2024-08-28, amount: 500.0, category: Shopping, notes: Street Shopping at Dadar
+2025-03-02 18:14:41,945 - name - INFO - fetch_expenses_for_date called with 2024-08-01
+2025-03-02 18:15:21,004 - name - INFO - fetch_expenses_for_date called with 2024-08-01
+2025-03-02 18:15:51,106 - name - INFO - delete_expenses_for_date called with 2024-08-28
+2025-03-02 18:15:51,124 - name - INFO - insert_expense called with date: 2024-08-28, amount: 500.0, category: Shopping, notes: Street Shopping at Dadar
+2025-03-02 18:16:37,555 - name - INFO - fetch_expenses_for_date called with 2024-08-28
+2025-03-02 18:42:35,670 - name - INFO - fetch_expenses_for_date called with 2024-08-01
+2025-03-02 18:42:47,519 - name - INFO - fetch_expenses_for_date called with 2024-08-01
+2025-03-02 18:42:53,870 - name - INFO - fetch_expenses_for_date called with 2024-08-01
+2025-03-02 18:44:41,753 - name - INFO - fetch_expenses_for_date called with 2024-08-01
+2025-03-02 18:44:46,372 - name - INFO - fetch_expenses_for_date called with 2024-08-02
+2025-03-02 18:44:50,392 - name - INFO - fetch_expenses_for_date called with 2024-08-02
+2025-03-02 19:10:04,500 - name - INFO - fetch_expense_summary called with start: 2024-08-01, end: 2024-08-05
+2025-03-02 19:11:20,934 - name - INFO - fetch_expenses_for_date called with 2024-08-01
+2025-03-02 19:11:25,371 - name - INFO - fetch_expenses_for_date called with 2024-08-01
+2025-03-02 19:11:27,465 - name - INFO - fetch_expense_summary called with start: 2024-08-01, end: 2024-08-05
