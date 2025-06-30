@@ -19,15 +19,15 @@ This project is an expense management system that consists of a Streamlit fronte
    git clone https://github.com/coding-for-it/expense-management-system.git
    cd expense-management-system
    ```
-1. **Install dependencies:**:   
+2. **Install dependencies:**:   
    ```commandline
     pip install -r requirements.txt
    ```
-1. **Run the FastAPI server:**:   
+3. **Run the FastAPI server:**:   
    ```commandline
     uvicorn server.server:app --reload
    ```
-1. **Run the Streamlit app:**:   
+4. **Run the Streamlit app:**:   
    ```commandline
     streamlit run frontend/app.py
    ```
